@@ -1,4 +1,3 @@
-```markdown
 # Password Generator Flask App
 
 This is a simple password generator web application built with Flask, HTML, CSS, and JavaScript. The app allows users to generate random passwords based on their specified length and the number of passwords required.
